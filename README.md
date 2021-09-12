@@ -1,16 +1,5 @@
-# finblox_assignment
+# Finblox assignment
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Note
+- I can styling the chart for better look but I think that's not really neccessary.
+- I used BLoC and it creates many boilerplate code. So I rather not using it. Business logic and View should be separated, and I'm using stacked library to serve this purpose.
